@@ -1,6 +1,6 @@
 # WeatherDB
 
-WeatherDB acronym for Weather Database is fully inspired by my passion for Meteorology. I decided to independanlly learn C++ with help of tutorials and thought of building my skills by creating this database.
+WeatherDB acronym for Weather Database is fully inspired by my passion for Meteorology. I decided to independently learn C++ with help of tutorials and thought of building my skills by creating this database.
 Currently a simple database like program that will realize the following operations:
 <ul>
 <li> Input data 
