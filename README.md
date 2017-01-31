@@ -6,6 +6,7 @@ Currently a simple database like program that will realize the following operati
 <li> Input data 
 <li> Read data
 <li> Calculate mean
+<li> Duplicated data
 </ul>
 All data is stored in a txt file with the following format - ddmmyearlowhighhum.
 
