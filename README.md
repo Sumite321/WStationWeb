@@ -25,4 +25,5 @@ The database will check for existent data before writing to the txt file. For in
 <li> Potential link to a Weather Station
 <li> Produce PDF reports
 <li> Chance for a GUI
+<li> Show data graphically
 </ul>
